@@ -1,4 +1,3 @@
-# 💫 About Me:
 A passionate frontend & backend developer from India
 
 
@@ -25,3 +24,4 @@ A passionate frontend & backend developer from India
 [![](https://visitcount.itsvg.in/api?id=Avni7088&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**
